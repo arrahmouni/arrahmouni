@@ -43,12 +43,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" />
+  <img src="https://camo.githubusercontent.com/3662a9ccbc365e52fe27bd9bd5cbdd9388f9285d8bb4cd19a68ef0b045d70258/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d6f726967696e616c2e737667" alt="Tawilind css" width="40" />
 </p>
 
 #### 🔙 Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel" width="40" />
+  <img src="https://camo.githubusercontent.com/d5b29c0ef9ab7e205050ef7f6de79b5d09494f7aa5c5d497b5c18392fba8513a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3434302f312a4a334733616b614d70554f4c656777307030717468412e706e67" alt="Restfull Apis" width="40" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" alt="Firebase" width="40" />
 </p>
 
 #### 🗄️ Database
