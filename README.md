@@ -78,23 +78,11 @@ A fintech platform for managing agriculture investment processes.
 - Laravel + MySQL + REST APIs  
 - Tools: Git, Jira
 
-#### 🕋 [Mansaky](https://play.google.com/store/apps/details?id=com.mansaky.app&hl=tr&gl=US)
-Mobile app for booking Hajj & Umrah trips with concierge services.
-
-- Laravel + MySQL + HyperPay  
-- REST APIs + Android App
-
 #### 🛍 [Hudhud Shop](https://hudhudshop.com/)
 E-commerce marketplace for Turkish brands targeting GCC countries.
 
 - Laravel + Elastic Search + Esnekpos  
 - REST APIs + Shipping & Payment Integration
-
-#### 🍽 [Talabity](https://talabity.com/)
-E-commerce store for premium halal Arabic food products.
-
-- Laravel + Elastic Search + MySQL  
-- REST APIs + Git, Jira
 
 ---
 
