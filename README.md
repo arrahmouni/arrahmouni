@@ -91,6 +91,7 @@ E-commerce marketplace for Turkish brands targeting GCC countries.
 - 📧 Email: ammarrahmouni8@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/ammar-rahmouni-3225bb1a6](https://linkedin.com/in/ammar-rahmouni-3225bb1a6)  
 - 🧑‍💻 GitHub: [github.com/arrahmouni](https://github.com/arrahmouni)
+- 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/905366394454)
 
 ---
 
